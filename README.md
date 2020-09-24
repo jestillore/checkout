@@ -1,5 +1,8 @@
 ## A very simple git checkout tool
 
+### Installation
+You can move `checkout.sh` to `/usr/local/bin/checkout` or anywhere as long as it's on your PATH.
+
 ### Usage
 There's really not much on this script, so I'll just show you how it's used.
 
