@@ -15,3 +15,4 @@ To checkout to `feature/1234-create-tasks-modul`, you can run `checkout tasks` o
 
 ## TODO
 - [ ] Checkout remote branch
+- [ ] Better management of branch conflicts
