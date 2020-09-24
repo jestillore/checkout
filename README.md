@@ -14,4 +14,4 @@ To checkout to `feature/create-users-module` branch, you just have to run `check
 To checkout to `feature/1234-create-tasks-modul`, you can run `checkout tasks` or you can run `checkout 1234`.
 
 ## TODO
-- [ ] - Checkout remote branch
+- [ ] Checkout remote branch
